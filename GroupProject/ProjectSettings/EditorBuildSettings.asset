@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title_Screen.unity
+    guid: bb6e5895a48ffc549814f5b4a1128fa8
+  - enabled: 1
+    path: Assets/Scenes/SelectionScene.unity
+    guid: 6ec430dea4be5de439f5969c90c6d9f2
+  - enabled: 1
+    path: Assets/Scenes/Map 1.unity
+    guid: 1de134b45079b2143b77b129df46f610
+  - enabled: 1
+    path: Assets/Scenes/Map 2.unity
+    guid: b5761dfcb10f29049820924a2b3dbf95
+  - enabled: 1
+    path: Assets/Scenes/RainbowRoad.unity
+    guid: e54cb99ced0c7e944bac5283d65257e0
+  m_configObjects: {}
